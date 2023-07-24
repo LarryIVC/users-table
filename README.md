@@ -33,8 +33,10 @@
 # 📖 [Users Table] <a name="about-project"></a>
 
 **Users Table** This project is about a technical test solved by @midudev Miguel Angel Duran, in which I was able to understand and reinforce my knowledge of react and hook management.
-[Resuelvo prueba tecnica](https://youtu.be/mNJOWXc83Y4)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mNJOWXc83Y4?controls=0" title="YouTube video player" picture-in-picture; web-share" ></iframe>
+
+<a href='https://youtu.be/mNJOWXc83Y4' target='_blank'>
+  <img src='miniatura.PNG' alt='¡Mis extensiones favoritas de Visual Studio Code!' />
+</a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,14 +45,16 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.pgadmin.org/docs/pgadmin4/development/psql_tool.html">Psql</a></li>
+    <li><a href="https://es.react.dev/">React</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>API</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://randomuser.me/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -58,9 +62,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Storing data on Postgres server]**
-- **[Manage data with SQL statements]**
-- **[Display data in different modes]**
+- API data consumption
+- Hook handling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +93,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git git@github.com:LarryIVC/db_vet_clinic.git
+  git git@github.com:LarryIVC/users-table.git
 ```
 
 ### Prerequisites
@@ -157,12 +160,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Add more tables]**
-- [ ] **[Make better querys]**
-- [ ] **[Show data in the app]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -171,14 +168,13 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/LarryIVC/db_vet_clinic/issues).
+Feel free to check the [issues page](https://github.com/LarryIVC/users-table/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
 
 Help me with your criticisms and your suggestions, you will be blessed for such a noble gesture and give me a ⭐️ if you like this project. click [here ⭐️](https://github.com/LarryIVC/db_vet_clinic)
 
@@ -188,7 +184,7 @@ Help me with your criticisms and your suggestions, you will be blessed for such 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this opportunity.<br>
+I would like to thank @midudev for his videos.<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
