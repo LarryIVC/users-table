@@ -1,12 +1,14 @@
-export const ListUsers = ({ deleteUser, showColors, users }) => {
+import { sortBy } from "../App"
+
+export const ListUsers = ({ handlerSorter, deleteUser, showColors, users }) => {
   return (
     <table width= '100%' >
       <thead>
         <tr>
           <th>Picture</th>
-          <th>Name</th>
-          <th>Apellido</th>
-          <th>Pais</th>
+          <th onClick={() => handlerSorter(sortBy.name)} style={{cursor: "pointer"}}>Name</th>
+          <th onClick={() => handlerSorter(sortBy.last)} style={{cursor: "pointer"}}>Apellido</th>
+          <th onClick={() => handlerSorter(sortBy.country)} style={{cursor: "pointer"}}>Pais</th>
           <th>Acciones</th>
         </tr>
       </thead>
