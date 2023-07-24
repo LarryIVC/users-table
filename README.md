@@ -69,15 +69,15 @@
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
 
-<!-- - [Live Demo Link](<replace-with-your-deployment-URL>) -->
+- [Live Demo Link](https://users-table-dev.netlify.app/)
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+GETTING STARTED
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
